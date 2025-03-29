@@ -75,7 +75,7 @@ You can now start using the bot by typing the bot's commands in your server.
    `pkg update`
    `pkg install python git`
    `pkg install python-pip`
-3. *If you have your bot's code hosted on GitHub, you can clone the repository:*
+3. *clone the repository:*
    `git clone https://github.com/Technology-GamingTech/discordbot.git`
 4. *Navigate to the bot directory*:
    `cd bot.py`
