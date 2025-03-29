@@ -67,5 +67,16 @@ You can now start using the bot by typing the bot's commands in your server.
    After Placing bot token and inviting bot to discord and install requirments Simply click on start_bot.bat, now your bot is running
 7. **Commands**:
    there is commands file given check commands
+# FOR ANDROID (TERMUX)
+## STEPS
+
+1. *Install Termux from the Google Play Store or from the official Termux GitHub if you are unable to install from the Play Store.*
+2. *Open Termux and update the package list*
+   `pkg update`
+   `pkg install python git`
+   `pkg install python-pip`
+3. *If you have your bot's code hosted on GitHub, you can clone the repository:*
+   `
+
 *Issue* If any issue appear contact me on discord AMB4324
 
