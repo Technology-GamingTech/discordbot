@@ -1,4 +1,4 @@
 @echo off
 echo Starting Discord Bot...
-python bot.py
-pause
+start /min pythonw bot.py
+exit
