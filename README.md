@@ -80,9 +80,7 @@ You can now start using the bot by typing the bot's commands in your server.
 4. *Navigate to the bot directory*:
    `cd discordbot`
 5. *Install required Python libraries: Most Discord bots use the discord.py library, which can be installed using pip*:
-   `pip install -r requirements.txt`
-                or
-   `pip install discord.py`
+         `pip install discord.py`
 7. *Edit the bot’s token in the script (usually in bot.py or similar). The token can be set either directly in the code or through environment variables.*
    Open the bot file with a text editor:
    `nano bot.py`
